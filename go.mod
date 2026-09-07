@@ -6,7 +6,7 @@ require (
 	github.com/andybalholm/brotli v1.2.3
 	github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac
 	github.com/gospider007/re v0.0.0-20260824054539-32823144d328
-	github.com/gospider007/tools v0.0.0-20260904000039-eb3a1f585998
+	github.com/gospider007/tools v0.0.0-20260907003557-2e499500cd4e
 	github.com/klauspost/compress v1.20.0
 	github.com/mileusna/useragent v1.3.5
 	github.com/refraction-networking/uquic v0.0.6

@@ -32,8 +32,8 @@ github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac h1:lJb+JuTFlDiG/
 github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac/go.mod h1:75RS5JPKWcrHfr+7VCZxhdI5anNguHHGS/Y9HPWBqTw=
 github.com/gospider007/re v0.0.0-20260824054539-32823144d328 h1:2nJmbFr4WnHMy26A0GijYfAF80BNxoYEB1uKlCQV930=
 github.com/gospider007/re v0.0.0-20260824054539-32823144d328/go.mod h1:h9MD0+Vqyo+4Oy17pk9j4B9fqQPnPMFZksP3G27VV5I=
-github.com/gospider007/tools v0.0.0-20260904000039-eb3a1f585998 h1:xJI3AgfHypnI9D+6Obceh74d2ba0CaQ1azQZfKCCcF0=
-github.com/gospider007/tools v0.0.0-20260904000039-eb3a1f585998/go.mod h1:IPJEV6M7157wP1s7ivbupmGuNRpjQx9GCgXMvEWCTqA=
+github.com/gospider007/tools v0.0.0-20260907003557-2e499500cd4e h1:CJgBnFO7BwaGRtnCihTwjF3edgtRGnQpbnQAxDZYQ6c=
+github.com/gospider007/tools v0.0.0-20260907003557-2e499500cd4e/go.mod h1:IPJEV6M7157wP1s7ivbupmGuNRpjQx9GCgXMvEWCTqA=
 github.com/joshdk/go-junit v1.0.0 h1:S86cUKIdwBHWwA6xCmFlf3RTLfVXYQfvanM5Uh+K6GE=
 github.com/joshdk/go-junit v1.0.0/go.mod h1:TiiV0PqkaNfFXjEiyjWM3XXrhVyCa1K4Zfga6W52ung=
 github.com/klauspost/compress v1.20.0 h1:a3C1ke2ohxFymNlb2HWAHjDeKCI90scRskErZkR0ezA=
