@@ -3,7 +3,7 @@ module github.com/gospider007/ja3
 go 1.27.0
 
 require (
-	github.com/andybalholm/brotli v1.2.3
+	github.com/andybalholm/brotli v1.2.4
 	github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac
 	github.com/gospider007/re v0.0.0-20260824054539-32823144d328
 	github.com/gospider007/tools v0.0.0-20260909053522-7e6782a3cdf0
